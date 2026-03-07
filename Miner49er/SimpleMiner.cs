@@ -51,19 +51,15 @@ namespace Miner49er
                 new ActionDelegate[] { new ActionDelegate(this.incrementThirst) }, miningState);
 
             // set banking transitions
-            // --- Banking Transitions 优化后的顺序 ---
 
-            // 1. 优先级最高：如果身上还有钱，先执行“一键存款” (Action 已修正)
             bankingState.addTransition("tick",
                 new ConditionDelegate[] { new ConditionDelegate(this.pocketsNotEmpty) },
                 new ActionDelegate[] { new ActionDelegate(this.depositGold) }, bankingState);
 
-            // 2. 优先级次之：存完钱了（口袋空了），检查是否需要“顺路去酒吧” (优化效率)
             bankingState.addTransition("tick",
                 new ConditionDelegate[] { (fsa) => thirst > 10 },
                 new ActionDelegate[] { }, drinkingState);
 
-            // 3. 最后优先级：如果不满足上述条件，则回矿场并“消除空白帧”直接开挖 (提升效率)
             bankingState.addTransition("tick",
                 new ConditionDelegate[] { },
                 new ActionDelegate[] { new ActionDelegate(this.dig) }, miningState);
