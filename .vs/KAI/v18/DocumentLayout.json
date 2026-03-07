@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Downloads\\KAI-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8F961C-5E95-4FF7-A40C-A343F38AE1F7}|Miner49er\\Miner49er.csproj|e:\\downloads\\kai-master\\miner49er\\miner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8F961C-5E95-4FF7-A40C-A343F38AE1F7}|Miner49er\\Miner49er.csproj|solutionrelative:miner49er\\miner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8F961C-5E95-4FF7-A40C-A343F38AE1F7}|Miner49er\\Miner49er.csproj|e:\\downloads\\kai-master\\miner49er\\simpleminer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8F961C-5E95-4FF7-A40C-A343F38AE1F7}|Miner49er\\Miner49er.csproj|solutionrelative:miner49er\\simpleminer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7961019-8B39-4EB6-AD4E-C5981948A732}|KAI\\KAI.csproj|e:\\downloads\\kai-master\\kai\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D7961019-8B39-4EB6-AD4E-C5981948A732}|KAI\\KAI.csproj|solutionrelative:kai\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SimpleMiner.cs",
+              "DocumentMoniker": "E:\\Downloads\\KAI-master\\Miner49er\\SimpleMiner.cs",
+              "RelativeDocumentMoniker": "Miner49er\\SimpleMiner.cs",
+              "ToolTip": "E:\\Downloads\\KAI-master\\Miner49er\\SimpleMiner.cs",
+              "RelativeToolTip": "Miner49er\\SimpleMiner.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T07:55:33.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Downloads\\KAI-master\\KAI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "KAI\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Downloads\\KAI-master\\KAI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "KAI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-07T01:55:24.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Miner.cs",
+              "DocumentMoniker": "E:\\Downloads\\KAI-master\\Miner49er\\Miner.cs",
+              "RelativeDocumentMoniker": "Miner49er\\Miner.cs",
+              "ToolTip": "E:\\Downloads\\KAI-master\\Miner49er\\Miner.cs",
+              "RelativeToolTip": "Miner49er\\Miner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T01:52:32.847Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

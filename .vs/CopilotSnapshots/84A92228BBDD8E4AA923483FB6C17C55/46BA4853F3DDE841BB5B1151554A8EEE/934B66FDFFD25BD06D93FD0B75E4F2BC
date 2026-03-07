@@ -1,0 +1,11 @@
+﻿{
+  "profiles": {
+    "KAI": {
+      "commandName": "Project"
+    },
+    "配置文件 1": {
+      "commandName": "Executable",
+      "executablePath": "E:\\Downloads\\KAI-master\\Miner49er\\Program.cs"
+    }
+  }
+}

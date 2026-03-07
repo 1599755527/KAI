@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KAI", "KAI\KAI.csproj", "{D7961019-8B39-4EB6-AD4E-C5981948A732}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSA", "FSA\FSA.csproj", "{E9A81AD0-8114-483C-8975-8F744BD7FAC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Miner49er", "Miner49er\Miner49er.csproj", "{FC8F961C-5E95-4FF7-A40C-A343F38AE1F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7961019-8B39-4EB6-AD4E-C5981948A732}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7961019-8B39-4EB6-AD4E-C5981948A732}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7961019-8B39-4EB6-AD4E-C5981948A732}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7961019-8B39-4EB6-AD4E-C5981948A732}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9A81AD0-8114-483C-8975-8F744BD7FAC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9A81AD0-8114-483C-8975-8F744BD7FAC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9A81AD0-8114-483C-8975-8F744BD7FAC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9A81AD0-8114-483C-8975-8F744BD7FAC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC8F961C-5E95-4FF7-A40C-A343F38AE1F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC8F961C-5E95-4FF7-A40C-A343F38AE1F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC8F961C-5E95-4FF7-A40C-A343F38AE1F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC8F961C-5E95-4FF7-A40C-A343F38AE1F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal
